@@ -1,0 +1,45 @@
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === IDE / Editor folders ===
+.vscode/
+.idea/
+*.code-workspace
+*.iml
+
+# === Java build files ===
+*.class
+*.jar
+*.war
+*.ear
+
+# === JVM crash logs ===
+hs_err_pid*
+replay_pid*
+
+# === Logs / Temp ===
+*.log
+*.tmp
+*.swp
+*.swo
+
+# === Backup files ===
+*~
+*.bak
+*.old
+
+# === Input / Output test files (optional) ===
+input.txt
+output.txt
+testcases.txt
+
+# === Other unnecessary files ===
+bin/
+out/
+target/
+
+# === Gradle / Maven (if you use them later) ===
+.gradle/
+build/
+.mvn/
